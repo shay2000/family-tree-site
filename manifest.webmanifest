@@ -1,0 +1,24 @@
+{
+  "name": "Bhimjiyani Family Tree",
+  "short_name": "Family Tree",
+  "description": "Private record of the Bhimjiyani family",
+  "start_url": "/family-tree-site/",
+  "scope": "/family-tree-site/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#1c1917",
+  "icons": [
+    {
+      "src": "/family-tree-site/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/family-tree-site/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
